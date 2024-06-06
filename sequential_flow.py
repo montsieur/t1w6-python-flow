@@ -53,13 +53,4 @@
 # result = not b
 # print(result)
 
-age = 20
-has_permission = True
 
-if age >= 18:
-    if has_permission:
-        print("Access Granted.")
-    else:
-        print("Access Denied.")
-else:
-    print("Access Denied.")
